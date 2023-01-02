@@ -1,4 +1,4 @@
-# <div align="center">👋 Hi World! I'm Samed Sakman</div>  
+# <div>👋 Hi World! I'm Samed Sakman</div>  
   
 
 - 🔌 19 years visual design, 9 years lecturer, 5 years animation, 2 years blockchain and now coding  
